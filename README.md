@@ -13,8 +13,8 @@
   - 🎯 **AI-Powered Career Guidance Tool**
 - 🌱 Learning: **Deep Learning** and **DSA in Python**
 - 💬 Ask me about **Python**, **Machine Learning**, **Data Analysis**
-- 📬 Reach me at: [your-email]  
-- 🔗 Connect on [LinkedIn](https://your-linkedin-link)
+- 📬 Reach me at: hetamin2202@gmail.com  
+- 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/het-amin-979b62242/)
 
 ---
 
@@ -29,8 +29,6 @@
 
 #### 🧰 Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 
@@ -54,11 +52,11 @@
 
 ### 🚀 Featured Projects
 
-#### 📈 BMI Classifier using RNNs
-> Predicts BMI category based on real-world health metrics using deep learning (RNNs). Designed for health tracking apps. 🧬
+#### 📈 BMI Classification using LSTM and Bi-LSTM Networks
+> Predicts BMI category based on real-world health metrics using deep learning . Designed for health tracking apps. 🧬
 
-#### 🧠 AI-Powered Career Guidance Tool
-> Intelligent system to guide students and professionals towards optimal career choices using ML and psychological profiling. 🎯
+#### 🧠 Superstore Business Intelligence Dashboard using Power BI.
+> Created a multi-page interactive dashboard in Power BI to analyze sales, profit, customer segments, and productperformance across states and time. Integrated filters, DAX KPIs, maps, and trend visuals to enable dynamic, data-driveninsights for stakeholders. 🎯
 
 ---
 
