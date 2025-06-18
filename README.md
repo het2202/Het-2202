@@ -9,8 +9,7 @@
 
 - 🎓 I’m an aspiring **AI Engineer / Data Scientist**
 - 🔭 Currently working on:
-  - 🤖 **BMI Classifier** using RNNs
-  - 🎯 **AI-Powered Career Guidance Tool**
+- 🤖 **Integrating LLM for generatiing worksheet and learning material for Ed-Tech Company.**
 - 🌱 Learning: **Deep Learning** and **DSA in Python**
 - 💬 Ask me about **Python**, **Machine Learning**, **Data Analysis**
 - 📬 Reach me at: hetamin2202@gmail.com  
